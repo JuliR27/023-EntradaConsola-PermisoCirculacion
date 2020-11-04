@@ -6,4 +6,5 @@ PermisoCirculacionConsola que defna una variable de tipo lógico llamada permiso
 pida al usuario que introduzca por consola el valor lógico que identfque si se está, o no, en
 posesión de algún Permiso de Circulación de Vehículos, o no, y fnalmente la muestre por
 pantalla en el formato:
+
 Permiso de circulación ...: "estado".
